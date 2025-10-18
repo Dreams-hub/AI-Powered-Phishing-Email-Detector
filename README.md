@@ -14,7 +14,7 @@ AI-powered Phishing Email Detector  small Flask app using Google Generative AI (
 - ✅ Auto-opens the UI in the default browser after launching (local dev)  
 - ✅ Minimal dependencies and easy to extend or integrate into a larger workflow
 
-<img width="1280" height="606" alt="AI phishing email detector1" src="https://github.com/user-attachments/assets/8333a039-a9f5-4523-b0b1-de41e2e90109" />
+
 
 
 
